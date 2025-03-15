@@ -27,6 +27,21 @@ Install the package using pip:
 pip install fpicker
 ```
 
+## Usage
+Here is an example of how to use FPicker:
+
+```python
+import fpicker
+
+folder_path = fpicker.open(mode="folder")
+if folder_path:
+    print("Selected folder:", folder_path)
+```
+## Output Example
+```plaintext
+The whole path for the selected file
+```
+
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions or improvements.
 

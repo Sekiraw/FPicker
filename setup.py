@@ -14,7 +14,7 @@ module = Extension(
 
 setup(
     name="fpicker",
-    version="1.0.0",
+    version="1.0.1",
     description="fpicker description",
     long_description=long_description,
     long_description_content_type="text/markdown",
