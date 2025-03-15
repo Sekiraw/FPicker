@@ -1,20 +1,21 @@
-# {ModuleName}
+# FPicker
 
-**{ModuleName}** desciription
+**FPicker** is a lightweight Windows-only file and folder picker library for Python.
 
 ---
 
 ## Features
 
-- feature 1
-- feature 2
-- ...
+- Open a file picker dialog
+- Open a folder picker dialog
+- Supports Windows COM-based dialogs
 
 ---
 
 ## Requirements
 
 - Python 3.x (recommended: 3.7 or higher)
+- Windows OS
 
 ---
 
@@ -23,26 +24,8 @@
 Install the package using pip:
 
 ```bash
-pip install {ModuleName}
+pip install fpicker
 ```
-
-## Usage
-Here is an example of how to use {ModuleName}:
-
-```python
-import {ModuleName}
-...
-```
-## Output Example
-```plaintext
-Example output
-```
-
-## How It Works
-{ModuleName} Works like this, for this reason
-
-## Limitations
-Any limitations
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions or improvements.
@@ -67,15 +50,14 @@ The module is now installed in the virtual environment. You can test it by runni
 python examples/example.py
 ```
 
-
 ## License
 This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
 
 ## Author
-Developed by {developer}
+Developed by Sekiraw
 
 ## Acknowledgements
-Thanks to the Python (and ...) development communities for providing tools and resources to make this project possible.
+Thanks to the Python development communities for providing tools and resources to make this project possible.
 
 ```vbnet
 This styling ensures clarity, proper sectioning, and good readability. Let me know if you`d like any further adjustments!
