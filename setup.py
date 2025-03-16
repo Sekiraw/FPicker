@@ -14,8 +14,8 @@ module = Extension(
 
 setup(
     name="fpicker",
-    version="1.0.1",
-    description="fpicker description",
+    version="1.0.2",
+    description="FPicker is a lightweight Windows-only file and folder picker library for Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Sekiraw",
